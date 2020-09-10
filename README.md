@@ -1,1 +1,1 @@
-# demo
+This is my tic_tac_toe game project....This includes creating the tic_tac_toe board, ofcourse header and instructions to let players understand the game. And then creating players 1 and 2 as it includes only "X" and "O". And finally one player of those two will win the game at the end !
